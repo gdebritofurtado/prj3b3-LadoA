@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import { View, Text, Text, TextInput, Button, StyleSheet } from "react-native";
 
 const App = () =>{
@@ -47,5 +46,6 @@ const styles=StyleSheet.create = ({
 });
 
 export default App;
+
 
 
